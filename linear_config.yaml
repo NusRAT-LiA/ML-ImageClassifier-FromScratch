@@ -1,0 +1,8 @@
+data_params:
+  data_path: "CIFAR-10/"
+  train_ratio: 0.8
+model_params:
+  lr: 0.001
+  epochs: 50
+  batch_size: 64
+  seed: 42
