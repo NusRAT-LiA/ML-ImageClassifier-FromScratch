@@ -74,8 +74,6 @@ Feel free to submit issues or pull requests for improvements.
 - Improve model efficiency with quantization or pruning.
 - Implement real-time inference with a web or mobile application.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 - PyTorch for deep learning framework.
